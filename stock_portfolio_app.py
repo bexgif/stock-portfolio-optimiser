@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from src.load_data import load_stock_data
 from src.analysis import calculate_log_returns, calculate_var
-from src.simulation import simulate_portfolios, get_optimal_portfolio
+from src.simulation import simulate_portfolios, get_optimal_portfolio 
 
 # --- App Title ---
 st.title("📈 AI-Powered Stock Portfolio Optimiser")
