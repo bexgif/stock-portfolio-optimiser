@@ -51,7 +51,7 @@ cd stock-portfolio-optimiser
 Install dependencies:
 pip install -r requirements.txt
 
-Run locally:
+Run locally in terminal:
 streamlit run stock_portfolio_app.py
 ```
 ## 📊 Technologies Used
