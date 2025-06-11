@@ -63,4 +63,4 @@ streamlit run stock_portfolio_app.py
 ## ✍️ Author
 Rebecca Holland
 
-Project – BSc Data Science & AI
+Project - BSc Data Science & AI
