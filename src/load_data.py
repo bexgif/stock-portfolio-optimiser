@@ -1,7 +1,7 @@
 import pandas as pd
 import os
 from datetime import datetime, timedelta
-
+ 
 def load_stock_data(data_dir):
     stock_files = {
         'Apple': 'apple_processed.csv',
