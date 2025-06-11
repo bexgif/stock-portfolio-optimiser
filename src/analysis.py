@@ -12,7 +12,7 @@ def calculate_log_returns(price_data):
         df = df[['Close']].copy()
 
         # Ensure index (Datetime) is unique
-        df = df[~df.index.duplicated(keep='first')]
+        df = df[~df.index.duplicated(keep='first')] 
 
         df.rename(columns={'Close': name}, inplace=True)
         close_prices = pd.concat([close_prices, df], axis=1)
