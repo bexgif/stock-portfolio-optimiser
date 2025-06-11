@@ -28,7 +28,7 @@ def simulate_portfolios(log_returns, num_portfolios=10000, risk_free_rate=0.01):
         results["Volatility"].append(portfolio_volatility)
         results["Sharpe"].append(sharpe_ratio)
         results["Weights"].append(weights)
-
+ 
     return pd.DataFrame(results)
 
 def get_optimal_portfolio(simulated_df):
