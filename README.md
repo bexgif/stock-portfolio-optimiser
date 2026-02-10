@@ -2,14 +2,14 @@
 
 This project is an **AI-driven financial analysis tool** that uses **Data Science**, **Big Data** techniques, and **Cloud Integration** to optimise a stock portfolio based on historical price data of leading tech companies.
 
-## 🔍 Overview
+## Overview
 
 This app analyses 1-minute interval stock data for:
-- 📈 Apple
-- 🛒 Amazon
-- 🔎 Google
-- 🧠 Microsoft *(excluded due to insufficient recent data)*
-- 🚗 Tesla
+- Apple
+- Amazon
+- Google
+- Microsoft *(excluded due to insufficient recent data)*
+- Tesla
 
 It:
 - Calculates **log returns**
@@ -17,7 +17,7 @@ It:
 - Estimates **Value at Risk (VaR)** at 95% and 99% confidence intervals
 - Presents the findings through an interactive **Streamlit web app**
 
-## ⚙️ Features
+## Features
 
 ✅ Data Science  
 - Log return calculation  
@@ -40,7 +40,7 @@ It:
 
 ---
 
-## 📦 Installation
+## Installation
 
 Clone the repo:
 
@@ -54,13 +54,13 @@ pip install -r requirements.txt
 Run locally in terminal:
 streamlit run stock_portfolio_app.py
 ```
-## 📊 Technologies Used
+## Technologies Used
 - Python
 - Pandas, NumPy, Matplotlib
 - Streamlit
 - Git & GitHub
 
-## ✍️ Author
+## Author
 Rebecca Holland
 
 Project - BSc Data Science & AI
