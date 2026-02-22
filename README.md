@@ -1,4 +1,4 @@
-# 🧠 AI-Powered Stock Portfolio Optimiser
+# AI-Powered Stock Portfolio Optimiser - 1st Class Grade Achieved
 
 This project is an **AI-driven financial analysis tool** that uses **Data Science**, **Big Data** techniques, and **Cloud Integration** to optimise a stock portfolio based on historical price data of leading tech companies.
 
@@ -59,8 +59,3 @@ streamlit run stock_portfolio_app.py
 - Pandas, NumPy, Matplotlib
 - Streamlit
 - Git & GitHub
-
-## Author
-Rebecca Holland
-
-Project - BSc Data Science & AI
