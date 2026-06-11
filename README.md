@@ -19,21 +19,21 @@ It:
 
 ## Features
 
-✅ Data Science  
+Data Science  
 - Log return calculation  
 - Portfolio simulation  
 - VaR estimation  
 
-✅ Big Data  
+Big Data  
 - High-frequency historical stock data  
 - Efficient filtering and aggregation  
 
-✅ Cloud Integration  
+Cloud Integration  
 - Live Streamlit deployment  
 - Code hosted on GitHub  
 - Requirements managed for cloud execution  
 
-✅ Software Development  
+Software Development  
 - Modular Python structure (`/src`)  
 - Streamlit UI for real-time interaction  
 - Git version control
